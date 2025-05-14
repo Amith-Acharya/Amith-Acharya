@@ -1,77 +1,83 @@
-# 👋 Hi, I'm Amith!
+# 👋 Hi there! I'm Amith S
 
-🎓 Final-year B.E. student in Information Science and Engineering  
-💼 Currently interning at **msg-global** working on **.NET and C#** with **Microsoft Dynamics 365 (Recruit CRM)**  
-🌐 Passionate about full-stack development and building meaningful software solutions  
-🧠 Focused on growing in **cloud technologies**, **TypeScript**, and **React**
+🎓 Final-year B.E. student in **Information Science Engineering** at CMRIT, Bengaluru  
+💼 Former **R&D Technical Intern** at **Ellucian**, with experience in Microsoft Dynamics 365, .NET, and integration automation  
+🛠️ Backend-focused developer passionate about solving real-world problems with clean, scalable code  
+🌱 Currently growing my full-stack skills and exploring cloud-based solutions
+
+---
+
+## 💡 About Me
+
+- 🔧 I love building dynamic web applications with **Django**, **.NET MVC**, and **Ajax**
+- ⚙️ Experienced in integrating third-party APIs and automating complex workflows
+- 💬 Currently improving my **TypeScript** and **React** skills
+- 🤝 Open to collaborations on innovative projects and hackathons
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages:**  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+**Languages**  
+`Python` | `C#` | `Java` | `JavaScript` | `SQL`
 
-**Frameworks & Tools:**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+**Frameworks & Tools**  
+`.NET MVC` | `Django` | `Flask` | `jQuery` | `Bootstrap`
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
-**Project Tools:**  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+**Platforms & Tools**  
+`Dynamics 365` | `PostgreSQL` | `ETL Pipelines` | `Visual Studio` | `Bruno/Postman`  
+`Jira` | `Bitbucket` | `Git`
 
 ---
 
-## 🛠️ Projects
+## 📂 Projects
 
-### 📅 Work Calendar  
-A full-stack scheduling platform built with Django, Laravel 9, Ajax, and FullCalendar. Supports full CRUD operations with responsive design.  
-**Tools Used:** Python Django, Ajax, Bootstrap, jQuery, Moment.js
+### 📱 Ecommerce Website for Mobile Shop
+Built a full-featured e-commerce site with:
+- 🛒 User authentication, cart, order processing, payment system  
+- 💻 Tech Used: HTML, CSS, Django, PostgreSQL
 
-### 🔒 Steganography App (Android)  
-Secure image-based data hiding and decryption system using a key-authenticated mechanism.  
-**Tech Stack:** Java, Android Studio
+### 📅 Django Ajax FullCalendar
+Interactive scheduling system using:
+- 📆 FullCalendar with Ajax, jQuery, Moment.js  
+- 📦 Backend: Python (Django), Bootstrap for UI
 
----
-
-## 📈 Goals for 2025
-
-- ✅ Master .NET ecosystem
-- ✅ Build scalable full-stack apps
-- 🚀 Dive deeper into cloud platforms (Azure)
-- ⚛️ Learn React & TypeScript for client-side apps
-- 🧪 Explore testing & automation frameworks
+### 🤖 AI-Powered University Discussion Forum *(Hackathon Project)*
+- NLP-based summarization, smart categorization  
+- Flask backend, real-time ranking, content recommendations  
 
 ---
 
-## ⚽ Outside Tech...
+## 🏢 Internship Experience
 
-When I'm not coding, you'll find me:
-- Watching football (⚽)
-- Capturing photos 📸
-- Traveling to new places ✈️
-- Binging thriller series 🎬
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amith-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link/)  
-[![GitHub](https://img.shields.io/badge/GitHub-amith--username-black?style=flat&logo=github)](https://github.com/your-username)
+**Ellucian – R&D Technical Intern**  
+*27th Jan 2025 – 25th Apr 2025*
+- Customized embedded student inquiry forms via D365 with CSS/JS injection  
+- Automated Recruit-Ethos-Banner integration via Python scripting  
+- Reduced manual setup time from **40+ hours** to **a few minutes**  
+- Prioritized API security and one-click provisioning
 
 ---
 
-*“Forward-thinking, always learning, and building for impact.”*
+## 🏆 Achievements & Activities
+
+- 🪖 NCC ‘A’ Certificate holder | Active **NSS Volunteer**
+- 📱 Social Media Co-ordinator @ Startup Club, CMRIT
+
+---
+
+## ⚽ Interests
+
+Football ⚽ | Photography 📸 | Traveling ✈️ | Thriller Series 🎬 | Online Games 🎮
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmithS-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amiths2003/)  
+amithacharya2003@gmail.com
++91 7899332594
+
+---
+
+*“Driven to code with clarity, automate smartly, and keep growing every line at a time.”*
