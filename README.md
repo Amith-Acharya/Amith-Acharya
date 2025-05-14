@@ -75,7 +75,7 @@ Football ⚽ | Photography 📸 | Traveling ✈️ | Thriller Series 🎬 | Onli
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AmithS-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amiths2003/)  
-amithacharya2003@gmail.com
+amith.s.woekmail@gmail.com
 +91 7899332594
 
 ---
