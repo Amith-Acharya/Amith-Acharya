@@ -22,7 +22,7 @@
 `Python` | `C#` | `Java` | `JavaScript` | `SQL`
 
 **Frameworks & Tools**  
-`.NET MVC` | `Django` | `Flask` | `jQuery` | `Bootstrap`
+`.NET MVC` | `Django` | `Flask` | `jQuery` 
 
 **Platforms & Tools**  
 `Dynamics 365` | `PostgreSQL` | `ETL Pipelines` | `Visual Studio` | `Bruno/Postman`  
