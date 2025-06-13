@@ -32,6 +32,11 @@
 
 ## 📂 Projects
 
+### ✍️ Bloggie – Blogging Platform with ASP.NET Core MVC
+A full-featured blogging web application that supports user authentication, admin panel, post creation with image uploads, and clean role-based access.
+- 🧠 Features: Post CRUD, user login/register, role-based access, image uploads, WYSIWYG editor, validations, alerts  
+- 💻 Tech Used: ASP.NET Core MVC (.NET 8), Entity Framework Core, Microsoft Identity, Bootstrap 5, SQL Server  
+
 ### 📱 Ecommerce Website for Mobile Shop
 Built a full-featured e-commerce site with:
 - 🛒 User authentication, cart, order processing, payment system  
